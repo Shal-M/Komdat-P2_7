@@ -5,7 +5,7 @@
 3. Ramadhan Wiradikusuma G64180096
 4. Ananda Alfarishi Anwar G64180097
 
-<h1 align="center"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F25fb904bea44b9f7e3b6aa4be03057d01877e6b683b2052afdfcd247021b54d2%2F68747470733a2f2f7761677461696c2e696f2f7374617469632f696d672f7761677461696c2e6462663630353435613138382e737667&imgrefurl=https%3A%2F%2Fgithub.com%2Ftr11%2Fwagtail-graphql&tbnid=SrGjG1Vgxoh7QM&vet=10CAsQxiAoAWoXChMI-JKShrq07wIVAAAAAB0AAAAAEAw..i&docid=e2S0hi5ZQJSgLM&w=800&h=295&itg=1&q=wagtail&safe=active&client=opera&ved=0CAsQxiAoAWoXChMI-JKShrq07wIVAAAAAB0AAAAAEAw"></h1>
+<h1 align="center"><img src="https://images.app.goo.gl/mupKWtW3gbDDtf2n8"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
