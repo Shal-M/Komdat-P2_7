@@ -43,6 +43,10 @@ Requirement untuk installasi :
 * Pipenv
 * Text editor (vscode)
 
+1. Pertama kita install
+   
+   $ python3 --version
+
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
 
