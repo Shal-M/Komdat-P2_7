@@ -58,6 +58,7 @@ Requirement untuk installasi :
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
+
 Seperti biasa hal yang dilakukan untuk menggunakan Wagtail adalah sign in
 ![Capture komdat 2](https://user-images.githubusercontent.com/54541186/111287766-c64d2a80-8600-11eb-8b9b-af83164035ee.PNG)
 
