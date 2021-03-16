@@ -1,4 +1,7 @@
 # Komdat-P2_7
+
+![Capture komdat](https://user-images.githubusercontent.com/54541186/111281675-6fdced80-85fa-11eb-837a-3742d63a213a.PNG)
+
 Wagtail adalah CMS yang dibangun dengan Python dan framework Django.
 
 Content Management System merupakan sistem pembuatan website siap pakai.
