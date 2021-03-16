@@ -73,3 +73,5 @@ Sehabis itu kalian bisa menambahkan konten yang kalian inginkan di page yang sud
 
 # Referensi
 [`^ kembali ke atas ^`](#)
+
+https://docs.wagtail.io/en/stable/getting_started/tutorial.html?_ga=2.190831918.409681746.1615739120-158193979.1615739120
