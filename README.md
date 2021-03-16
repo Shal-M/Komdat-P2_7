@@ -5,7 +5,7 @@
 3. Ramadhan Wiradikusuma G64180096
 4. Ananda Alfarishi Anwar G64180097
 
-<h1 align="center"><img src="https://images.app.goo.gl/mupKWtW3gbDDtf2n8"></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/55485843/111281788-e7009900-866f-11eb-925a-c78eaa171cf9.png"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
