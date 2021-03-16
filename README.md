@@ -46,7 +46,43 @@ Requirement untuk installasi :
 1. Pertama kita cek versi python terlebih dahulu
    
    $ python3 --version
+ 
+2. Jika belum terinstall python, Mulailah dengan memperbarui daftar paket dan menginstal prasyarat:
 
+   $ sudo apt update
+   $ sudo apt install software-properties-common
+   
+3. Selanjutnya, tambahkan PPA deadsnakes ke sources list Anda:
+
+   $ sudo add-apt-repository ppa:deadsnakes/ppa
+  
+4. Setelah repositori diaktifkan, instal Python 3.7 dengan mengetik perintah :
+
+   $ sudo apt install python3
+   
+5. Setelah itu Install pip
+
+   $ sudo apt install python-pip
+   
+6. Setelah pip terinstal maka kita dapat install pipenv
+
+   $ sudo pip install pipenv
+   
+**INSTALL WAGTAIL**
+
+1. Gunakan pip untuk menginstall wagtail
+
+   $ sudo pip install wagtail
+   
+2. Wagtail terdapat fitur start yang mirip dengan django-admin startproject. menjalankan wagtail di my site akan menghasilkan folder baru dengan tambahan khusus wagtail.
+Karena folder mysite sudah dibuat oleh venv, jalankan wagtail start dengan argumen tambahan untuk menentukan direktori tujuan: 
+
+   $ wagtail start mysite mysite
+   
+**INSTALL PROJECT DEPENDENCIES**
+   $ cd mysite
+   $ pip install -r requirements.txt
+ 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
 
