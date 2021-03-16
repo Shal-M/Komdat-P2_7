@@ -43,7 +43,7 @@ Requirement untuk installasi :
 * Pipenv
 * Text editor (vscode)
 
-1. Pertama kita install
+1. Pertama kita cek versi python terlebih dahulu
    
    $ python3 --version
 
@@ -58,6 +58,14 @@ Requirement untuk installasi :
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
+Seperti biasa hal yang dilakukan untuk menggunakan Wagtail adalah sign in
+![Capture komdat 2](https://user-images.githubusercontent.com/54541186/111287766-c64d2a80-8600-11eb-8b9b-af83164035ee.PNG)
+
+Setelah sign in maka akan masuk ke halaman utama Wagtail
+![Capture komdat 3](https://user-images.githubusercontent.com/54541186/111287995-01e7f480-8601-11eb-8ab7-596cccee74c0.PNG)
+
+Sehabis itu kalian bisa menambahkan konten yang kalian inginkan di page yang sudah kalian miliki
+![Capture komdat 4](https://user-images.githubusercontent.com/54541186/111288081-17f5b500-8601-11eb-8ee8-b5e2453cd5e0.PNG)
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
