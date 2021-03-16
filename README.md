@@ -1,4 +1,9 @@
 # Komdat-P2_7
+#Anggota Kelompok
+1. Alfian Arief Santoso G64180061
+2. M Faishal Mumtaz G64180093
+3. Ramadhan Wiradikusuma G64180096
+4. Ananda Alfarishi Anwar G64180097
 
 ![images](https://user-images.githubusercontent.com/55485843/111281788-e7009900-866f-11eb-925a-c78eaa171cf9.png)
 
