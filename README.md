@@ -80,6 +80,7 @@ Karena folder mysite sudah dibuat oleh venv, jalankan wagtail start dengan argum
    $ wagtail start mysite mysite
    
 **INSTALL PROJECT DEPENDENCIES**
+   
    $ cd mysite
    $ pip install -r requirements.txt
  
