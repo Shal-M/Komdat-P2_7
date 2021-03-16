@@ -1,7 +1,8 @@
 # Komdat-P2_7
 
 ![images](https://user-images.githubusercontent.com/55485843/111281788-e7009900-866f-11eb-925a-c78eaa171cf9.png)
-## WAGTAIL
+
+# WAGTAIL
 
 ![Capture komdat](https://user-images.githubusercontent.com/54541186/111281876-a286e600-85fa-11eb-93b1-25c2e2725d41.PNG)
 
@@ -21,3 +22,13 @@ kita dapat membuat kontrol pengeditan untuk masing-masing blok sesederhana atau 
 
 Ekonomi konten
 Setelah keluar dari pola pikir rich text area, Anda akan menemukan cara yang lebih baik untuk mengatur informasi.
+
+Requirement untuk installasi : 
+* Python 3
+* Pipenv
+* Text editor (vscode)
+
+ 
+
+
+
