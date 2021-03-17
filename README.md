@@ -101,7 +101,24 @@ Jika kita belum punya projek terbaru, maka kita bisa membuat baru dengan cara :
 $ python manage.py runserver
 
 # Konfigurasi
-[`^ kembali ke atas ^`](#)
+Melakukan Port Fowarding dari Virtualbox machine ke luar VM, disini kami menggunakan Windows 10
+Kami menggunakan VM Ubuntu 18.04 
+
+Pertama yaitu kita harus install open ssh pada Ubuntu dengan cara:
+
+   $ sudo apt-get install openssh-server
+   $ sudo systemctl enable ssh
+   $ sudo systemctl start ssh
+
+Setelah itu lakukan setting pada Virtualbox, masuk ke 'Settings -> Network -> Advance -> Port Forwarding'.
+
+Aturan port forwarding sebagai berikut.
+![Screenshot (387)](https://user-images.githubusercontent.com/60084504/111414923-757a2680-8713-11eb-838e-9ca342f6cb02.png)
+
+Setelah selesai instalasi ssh pada Ubuntu lalu sudah menjalankan ssh. Selanjutnya silahkan menuju ke CMD windows dan login ke ssh:
+
+   $ ssh user@server-name  
+
 
 
 # Cara Pemakaian
@@ -117,7 +134,7 @@ Sehabis itu kalian bisa menambahkan konten yang kalian inginkan di page yang sud
 ![Capture komdat 4](https://user-images.githubusercontent.com/54541186/111288081-17f5b500-8601-11eb-8ee8-b5e2453cd5e0.PNG)
 
 # Pembahasan
-[`^ kembali ke atas ^`](#)
+Pada kali ini kita berhasil melakukan installasi wagtail melalui ubuntu, Wagtail sendiri adalah CMS yang dibuat oleh Django. Untuk pemakaian didalam server ubuntu tidak ada masalah,kita bisa melakukan log in dan menggunakan aplikasi sesuai dengan kegunaannya. Untuk Proses installasi kita menginstall Python3,PipenV dan Pip. Untuk Django sudah terdapat dalam wagtailnya sendiri jadi tidak perlu melakukan installasi kembali.Untuk mengakses aplikasi melewati windows kita mengalami beberapa kendala kita bisa menyambungkan ssh tapi saat di buka di windows tidak mau terkoneksi. Sekian laporan hasil tugas akhir Komunikasi Data dan Jaringan Komputer, kurang lebihnya mohon maaf terima kasih.
 
 # Referensi
 [`^ kembali ke atas ^`](#)
