@@ -83,7 +83,23 @@ Karena folder mysite sudah dibuat oleh venv, jalankan wagtail start dengan argum
    
    $ cd mysite
    $ pip install -r requirements.txt
+   
+
+**Create Database**
+
+Jika kita belum punya projek terbaru, maka kita bisa membuat baru dengan cara :
+
+   $ python manage.py migrate
  
+**Create an admin user**
+
+   $ python manage.py createsuperuser
+   
+
+**Start the server**
+
+$ python manage.py runserver
+
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
 
