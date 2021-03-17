@@ -107,12 +107,15 @@ Kami menggunakan VM Ubuntu 18.04
 Pertama yaitu kita harus install open ssh pada Ubuntu dengan cara:
 
    $ sudo apt-get install openssh-server
+   
    $ sudo systemctl enable ssh
+   
    $ sudo systemctl start ssh
 
 Setelah itu lakukan setting pada Virtualbox, masuk ke 'Settings -> Network -> Advance -> Port Forwarding'.
 
 Aturan port forwarding sebagai berikut.
+
 ![Screenshot (387)](https://user-images.githubusercontent.com/60084504/111414923-757a2680-8713-11eb-838e-9ca342f6cb02.png)
 
 Setelah selesai instalasi ssh pada Ubuntu lalu sudah menjalankan ssh. Selanjutnya silahkan menuju ke CMD windows dan login ke ssh:
