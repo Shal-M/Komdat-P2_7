@@ -50,6 +50,7 @@ Requirement untuk installasi :
 2. Jika belum terinstall python, Mulailah dengan memperbarui daftar paket dan menginstal prasyarat:
 
    $ sudo apt update
+   
    $ sudo apt install software-properties-common
    
 3. Selanjutnya, tambahkan PPA deadsnakes ke sources list Anda:
@@ -82,6 +83,7 @@ Karena folder mysite sudah dibuat oleh venv, jalankan wagtail start dengan argum
 **INSTALL PROJECT DEPENDENCIES**
    
    $ cd mysite
+   
    $ pip install -r requirements.txt
    
 
