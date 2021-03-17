@@ -87,11 +87,6 @@ Karena folder mysite sudah dibuat oleh venv, jalankan wagtail start dengan argum
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
 
-# Maintenance
-[`^ kembali ke atas ^`](#)
-
-# Otomatisasi
-[`^ kembali ke atas ^`](#)
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
